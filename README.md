@@ -4,8 +4,8 @@
 
 ### building agents, dapps, and tiny magical tools
 
-[![GitHub followers](https://img.shields.io/github/followers/nlyrthiia?style=for-the-badge&color=ffb6c1&labelColor=2b2b2b)](https://github.com/nlyrthiia)
-[![GitHub stars](https://img.shields.io/github/stars/nlyrthiia?style=for-the-badge&color=cba6f7&labelColor=2b2b2b)](https://github.com/nlyrthiia)
+![Public Repos](https://img.shields.io/badge/Public_repos-60-ffb6c1?style=for-the-badge&labelColor=2b2b2b)
+![Focus](https://img.shields.io/badge/Focus-AI_Agents_×_Web3-cba6f7?style=for-the-badge&labelColor=2b2b2b)
 [![Email](https://img.shields.io/badge/Email-nlyrthiia%40outlook.com-89b4fa?style=for-the-badge&labelColor=2b2b2b)](mailto:nlyrthiia@outlook.com)
 
 </div>
