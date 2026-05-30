@@ -1,6 +1,6 @@
 <div align="center">
 
-# nlyrthiia.exe is online ✦
+# nlyrthiia is casting code ✦
 
 ### building agents, dapps, and tiny magical tools
 
@@ -104,17 +104,6 @@ const nlyrthiia = {
 - Combining AI tools with Web3 products
 - Creating on-chain games and interactive prototypes
 - Designing cute but practical developer experiences
-
----
-
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nlyrthiia&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlyrthiia&layout=compact&theme=catppuccin_mocha&hide_border=true&hide=html,css,scss,vue" />
-
-</div>
 
 ---
 
